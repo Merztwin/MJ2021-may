@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/antonio/projects/godot-projects/MetroidvaniaJamMay2021/Metroidvania Jam May 2021.csproj": {}
+  },
+  "projects": {
+    "/home/antonio/projects/godot-projects/MetroidvaniaJamMay2021/Metroidvania Jam May 2021.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/antonio/projects/godot-projects/MetroidvaniaJamMay2021/Metroidvania Jam May 2021.csproj",
+        "projectName": "Metroidvania Jam May 2021",
+        "projectPath": "/home/antonio/projects/godot-projects/MetroidvaniaJamMay2021/Metroidvania Jam May 2021.csproj",
+        "packagesPath": "/home/antonio/.nuget/packages/",
+        "outputPath": "/home/antonio/projects/godot-projects/MetroidvaniaJamMay2021/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/antonio/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
